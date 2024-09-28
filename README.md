@@ -10,6 +10,10 @@ Web3 Chatbot is a React-based application that provides an interactive chat inte
 - Auto-scrolling to the latest message
 - Clear distinction between user and bot messages
 
+## ScreenShot
+
+![ScreenShot](https://github.com/BoddepallyVenkatesh06/Web3-Chatbot-VK/blob/main/Screenshot.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
